@@ -1,2 +1,2 @@
 # Alcohol-Consumption-Market
-KMeans model for alcohol consumption in Russia
+KMeans, PCA model for alcohol consumption in Russia
